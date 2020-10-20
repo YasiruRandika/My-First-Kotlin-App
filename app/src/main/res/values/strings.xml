@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My First Kotlin App</string>
+    <string name="enter_your_date_of_birth">Enter your Date of Birth</string>
+    <string name="submit">Submit</string>
+    <string name="date_here">Date Here</string>
+    <string name="enter_date_of_birth">Enter Date of Birth</string>
 </resources>
